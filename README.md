@@ -20,29 +20,7 @@ Installation Prerequisites:
 🏗️ Architecture
 The project follows a clean, modular architecture:
 
-src/
-├── main/
-│ └── java/
-│ └── com/
-│ └── sportradar/
-│ └── worldcup/
-│ ├── exception/
-│ │ └── MatchNotFoundException.java
-│ ├── model/
-│ │ └── Match.java
-│ ├── service/
-│ │ └── WorldCupScoreboardService.java
-│ ├── validation/
-│ │ ├── ScoreboardValidator.java
-│ │ └── ScoreboardValidationException.java
-│ └── Main.java
-└── test/
-└── java/
-└── com/
-└── sportradar/
-└── worldcup/
-└── service/
-└── WorldCupScoreboardServiceTest.java
+![image](https://github.com/user-attachments/assets/326e543a-0d45-4262-80f9-8e04ba24970b)
 
 Key Components:
 
